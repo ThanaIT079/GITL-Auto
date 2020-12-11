@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1607676407,
+	"version": 1607677870,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,6 +43,8 @@
 		"images/homepage_bg2-sheet0.png",
 		"images/hp_btn-sheet0.png",
 		"images/back_btn-sheet0.png",
+		"images/visual_btn-sheet0.png",
+		"images/wp_btn-sheet0.png",
 		"media/false question incorrect answer sound effect.ogg",
 		"media/true question correct answer sound effect.ogg",
 		"icon-16.png",
