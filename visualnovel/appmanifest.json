@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Visual novel",
+	"short_name": "Visual novel",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
