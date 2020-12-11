@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1607677870,
+	"version": 1607690871,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,6 +45,14 @@
 		"images/back_btn-sheet0.png",
 		"images/visual_btn-sheet0.png",
 		"images/wp_btn-sheet0.png",
+		"images/tutorial_btn-sheet0.png",
+		"images/changepage.png",
+		"images/ttr_bg-sheet0.png",
+		"images/ttr_bg-sheet1.png",
+		"images/ttr_bg-sheet2.png",
+		"images/ttr_bg-sheet3.png",
+		"images/ttrnext_btn-sheet0.png",
+		"images/ttrpre_btn-sheet0.png",
 		"media/false question incorrect answer sound effect.ogg",
 		"media/true question correct answer sound effect.ogg",
 		"icon-16.png",
